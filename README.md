@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erfanscode
 - 👀 I’m interested in PHP and Laravel vs Js
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Django, python
 - 📫 How to reach me LinkedIn: erfan sahranavard 
 
 <!---
