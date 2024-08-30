@@ -8,4 +8,8 @@
 
 <h3>🔧 Skills</h3>
 
+- Languages: <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
 - Backend: <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green"> <img src="https://img.shields.io/badge/Django%20Rest%20API-ff1709?style=flat&logo=django&logoColor=white">
+- Frontend: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+- Tools: <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white">
+- Test: <img src="https://img.shields.io/badge/UnitTest-023e8a?style=flat&logo=WakaTime&logoColor=white">
