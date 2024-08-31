@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/erfanscode-0052CC?style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
   <a href="instagram.com/_erfan_.s">
-    <img src="https://img.shields.io/badge/ErfanSahranavard-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="icons8-instagram-50.png?raw=true">
   </a>
   <a href="linkedin.com/in/erfan-sahranavard">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
