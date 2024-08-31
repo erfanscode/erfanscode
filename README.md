@@ -13,3 +13,27 @@
 - Frontend: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 - Tools: <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white">
 - Test: <img src="https://img.shields.io/badge/UnitTest-023e8a?style=flat&logo=WakaTime&logoColor=white">
+
+<hr>
+
+<h3>📊 Github Stats</h3>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanscode&hide_progress=true">
+
+<hr>
+
+<h3 align="center">📱 Contact Me</h3>
+
+<div align="center">
+  <a href="t.me/erfanscode">
+    <img src="https://img.shields.io/badge/erfanscode-0052CC?style=for-the-badge&logo=Telegram&logoColor=white">
+  </a>
+  <a href="instagram.com/_erfan_.s">
+    <img src="https://img.shields.io/badge/ErfanSahranavard-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="linkedin.com/in/erfan-sahranavard">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+
