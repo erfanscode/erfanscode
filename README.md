@@ -23,20 +23,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanscode&hide_progress=true">
 
 <hr>
-<!---
+
 <h3 align="center">📱 Contact Me</h3>
 
 <div align="center">
-  <a href="t.me/erfanscode">
-    <img src="https://img.shields.io/badge/erfanscode-0052CC?style=for-the-badge&logo=Telegram&logoColor=white">
+  <a href="https://linkedin.com/in/erfan-sahranavard">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/erfanscode/erfanscode/c76727b51c4c244db7bd1bd04b834abffb8bd6dc/icons8-linkedin.svg">
   </a>
-  <a href="instagram.com/_erfan_.s">
-    <img src="icons8-instagram-50.png?raw=true">
+  <a href="https://instagram.com/_erfan_.s">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/erfanscode/erfanscode/c76727b51c4c244db7bd1bd04b834abffb8bd6dc/icons8-instagram.svg">
   </a>
-  <a href="linkedin.com/in/erfan-sahranavard">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://t.me/erfanscode">
+    <img width="40px" height="40px" src="https://raw.githubusercontent.com/erfanscode/erfanscode/c76727b51c4c244db7bd1bd04b834abffb8bd6dc/icons8-telegram.svg">
   </a>
 </div>
----!>
-
-
