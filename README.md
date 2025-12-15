@@ -6,10 +6,10 @@
 
 Python/Django Developer.
 
-Building scalable web apps & APIs.
-Interested in open source and system architecture.
-Always learning.
-Open to collaboration and new opportunities.
+Building scalable web apps & APIs.<br>
+Interested in open source and system architecture.<br>
+Always learning.<br>
+Open to collaboration and new opportunities.<br><br>
 
 Let's get in touch.
 
