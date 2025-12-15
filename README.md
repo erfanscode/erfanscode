@@ -4,14 +4,14 @@
 
 <h3>🧑‍💻 About Me</h3>
 
-<h2>Python/Django Developer</h2>
+<h3>Python/Django Developer</h3>
 
 - Building scalable web apps & APIs.<br>
 - Interested in open source and system architecture.<br>
 - Always learning.<br>
 - Open to collaboration and new opportunities.<br><br>
 
-Let's get in touch.
+<h6>Let's get in touch</h6>
 
 <hr>
 
