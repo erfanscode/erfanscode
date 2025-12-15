@@ -33,7 +33,7 @@
   <a href="https://instagram.com/_erfan_.s">
     <img width="40px" height="40px" src="https://raw.githubusercontent.com/erfanscode/erfanscode/c76727b51c4c244db7bd1bd04b834abffb8bd6dc/icons8-instagram.svg">
   </a>
-  <a href="https://t.me/erfanscode">
+  <a href="https://t.me/prosfds">
     <img width="40px" height="40px" src="https://raw.githubusercontent.com/erfanscode/erfanscode/c76727b51c4c244db7bd1bd04b834abffb8bd6dc/icons8-telegram.svg">
   </a>
 </div>
